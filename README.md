@@ -1,4 +1,4 @@
-## Flutter UI - Album View
+## Flutter UI - Spotify
 
 ```dart
 void main() => runApp(MaterialApp(
