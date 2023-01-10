@@ -10,7 +10,7 @@ void main() => runApp(MaterialApp(
 
 ## Development Setup
 ```
-git clone https://github.com/afifudinx/flutter-spotify.git
+git clone https://github.com/afifcodes/flutter-spotify.git
 cd flutter-spotify
 flutter pub get
 flutter run
@@ -21,6 +21,6 @@ flutter run
 
 ## Links
 
-* [Website](https://afifudinx.vercel.app)
-* [Youtube channel](https://youtube.com/developedbyafif)
-* [Instagram](https://instagram.com/developedbyafif)
+* [Website](https://afifcodes.vercel.app)
+* [Youtube channel](https://youtube.com/afifcodes)
+* [Instagram](https://instagram.com/afifcodes)
